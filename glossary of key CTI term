@@ -6,21 +6,21 @@ This glossary contains key Cyber Threat Intelligence (CTI) terms related to phis
 
 | Term | Definition |
 |---|---|
-| **Cyber Threat Intelligence (CTI)** | Information about cyber threats that helps organizations understand, detect, and prevent attacks. |
-| **Phishing** | A cyberattack where attackers use fake emails, messages, or websites to steal sensitive information. |
-| **Threat Actor** | A person or group that performs a cyberattack. |
-| **Indicator of Compromise (IOC)** | Evidence that may show that a system or user was targeted or compromised. |
-| **Malicious URL** | A harmful link that sends users to a fake or dangerous website. |
-| **Malicious Domain** | A domain used by attackers for phishing, malware, or other malicious activities. |
-| **Spoofing** | Creating a fake identity, email address, or website that looks like a trusted source. |
-| **Social Engineering** | Manipulating people into giving sensitive information or performing unsafe actions. |
-| **Credential Harvesting** | Stealing usernames, passwords, or other login information using fake websites or forms. |
-| **Spear Phishing** | A phishing attack that targets a specific person or organization. |
-| **Email Spoofing** | Making an email look like it was sent by a trusted person or company. |
-| **Payload** | Malicious content delivered during an attack, such as a harmful file, link, or code. |
-| **TTPs (Tactics, Techniques, and Procedures)** | Methods and techniques that attackers use to perform cyberattacks. |
-| **OSINT (Open Source Intelligence)** | Information collected from publicly available sources for security analysis. |
-| **Threat Intelligence Feed** | A regularly updated source of information about malicious IP addresses, domains, URLs, hashes, and other threats. |
+| Cyber Threat Intelligence (CTI) | Information about cyber threats that helps organizations understand, detect, and prevent attacks. |
+| Phishing | A cyberattack where attackers use fake emails, messages, or websites to steal sensitive information. |
+| Threat Actor | A person or group that performs a cyberattack. |
+| Indicator of Compromise (IOC) | Evidence that may show that a system or user was targeted or compromised. |
+| Malicious URL | A harmful link that sends users to a fake or dangerous website. |
+| Malicious Domain | A domain used by attackers for phishing, malware, or other malicious activities. |
+| Spoofing | Creating a fake identity, email address, or website that looks like a trusted source. |
+| Social Engineering | Manipulating people into giving sensitive information or performing unsafe actions. |
+| Credential Harvesting | Stealing usernames, passwords, or other login information using fake websites or forms. |
+| Spear Phishing | A phishing attack that targets a specific person or organization. |
+| Email Spoofing | Making an email look like it was sent by a trusted person or company. |
+| Payload | Malicious content delivered during an attack, such as a harmful file, link, or code. |
+| TTPs (Tactics, Techniques, and Procedures) | Methods and techniques that attackers use to perform cyberattacks. |
+| OSINT (Open Source Intelligence) | Information collected from publicly available sources for security analysis. |
+| Threat Intelligence Feed | A regularly updated source of information about malicious IP addresses, domains, URLs, hashes, and other threats. |
 
 ## Summary
 
